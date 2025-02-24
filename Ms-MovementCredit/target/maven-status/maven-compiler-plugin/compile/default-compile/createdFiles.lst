@@ -1,0 +1,7 @@
+com\microservice\model\MovementCredit.class
+com\microservice\model\Credit.class
+com\microservice\repository\MovementCreditRepository.class
+com\microservice\service\MovementCreditService.class
+com\microservice\controller\MovementCreditController.class
+com\microservice\MovementCreditApplication.class
+com\microservice\repository\CreditRepository.class
