@@ -1,0 +1,5 @@
+com\microservice\controller\CreditController.class
+com\microservice\CreditApplication.class
+com\microservice\model\Credit.class
+com\microservice\service\CreditService.class
+com\microservice\repository\CreditRepository.class
