@@ -1,0 +1,7 @@
+com\microservice\movementDebit\model\MovementDebit.class
+com\microservice\movementDebit\MovementDebitApplication.class
+com\microservice\movementDebit\service\MovementDebitService.class
+com\microservice\movementDebit\model\Account.class
+com\microservice\movementDebit\repository\MovementDebitRepository.class
+com\microservice\movementDebit\controller\MovementDebitController.class
+com\microservice\movementDebit\repository\AccountRepository.class
